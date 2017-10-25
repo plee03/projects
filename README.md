@@ -11,7 +11,7 @@ This page gives an overview to projects that Peter Lee has contributed to.
 
 https://github.com/plee03/comp20-plee/tree/master/comp20-f2015-team16
 
-plee03.github.io/comp20-plee/comp20-f2015-team16/frontend/index.html
+https://plee03.github.io/comp20-plee/comp20-f2015-team16/frontend/index.html
 
 WMFO Program Finder is a web application that recommends programs for the Tufts-run radio station WFMO based on music genre. Genre statistics for each program were gathered by querying the Spinitron and Last.fm APIs to obtain songs played by the radio station and their genres. The statistics were stored in a MongoDB database that could be queried using an API to produce results for the client-facing website.
 
