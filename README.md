@@ -1,5 +1,5 @@
 # Projects
-This page gives an overview to projects that Peter Lee has contributed to.
+This page gives an overview to (now somwhat outdated) projects that Peter Lee contributed to for coursework.
 
 1. [WMFO Program Finder](#wfmo)
 2. [Snakes and Routers](#snakes)
@@ -22,7 +22,7 @@ WMFO Program Finder is a web application that recommends programs for the Tufts-
 
 https://github.com/charleskwwan/snakes-and-routers
 
-Snakes and Routers is a multiplayer rendition of the traditional game Snake over a network, written in Python. Snakes and Routers uses Pygame and PodSixNet, a networking library. The networking aspect of the game provided the most challenges, one particular example being synchronizatinon. Synchronization was accomplished using the CMB algorithm, which uses queues with timestamped events for each client to determine when it is safe to execute an event. 
+Snakes and Routers is a multiplayer rendition of the traditional game Snake over a network, written in Python. Snakes and Routers uses Pygame and PodSixNet, a networking library. The networking aspect of the game provided the most challenges, one particular example being synchronization. Synchronization was accomplished using the CMB algorithm, which uses queues with timestamped events for each client to determine when it is safe to execute an event. 
 
 ![Gameplay of Snakes and Routers](/Images/snake.png)
 
